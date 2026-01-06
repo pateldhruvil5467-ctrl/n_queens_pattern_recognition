@@ -1,4 +1,4 @@
-# N-Queens Problem – Pattern Recognition Project
+# N-Queens Problem - Pattern Recognition Project
 
 ## Overview
 This project explores the N-Queens problem from a Pattern Recognition perspective by implementing and comparing multiple computational approaches. The goal is to analyze how different algorithms recognize valid spatial patterns under constraints and how they scale with increasing problem size.
